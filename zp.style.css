@@ -172,15 +172,15 @@ i {
 
 html, body {
     width: 100vw;
-    /* height: 100vh; */
+    height: 100vh;
     padding: 0;
     margin: 0;
     background: #fff;
-    /* overflow: hidden; */
-    /* font-family: sans-serif; */
-    /* -webkit-perspective: 800px; */
-    /* -moz-perspective: 800px; */
-    /* perspective: 800px; */
+    overflow: hidden;
+    font-family: sans-serif;
+    -webkit-perspective: 800px;
+    -moz-perspective: 800px;
+    perspective: 800px;
 }
 
 
